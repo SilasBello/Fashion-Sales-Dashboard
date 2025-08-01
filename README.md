@@ -13,13 +13,13 @@ This project explores fashion product sales data using Excel dashboards, pivot t
 ## 📊 Key Visuals
 
 ### 🗓️ Monthly Sales Trend  
-![Monthly Sales](images/monthly sales chart.png)
+![Monthly Sales](images/monthly_sales_chart.png)
 
 ### 🧍 Sales by Rep  
-![Rep Performance](images/Sales by rep chart.png)
+![Rep Performance](images/sales_by rep_chart.png)
 
 ### 🛍️ Product Category Share  
-![Category Breakdown](images/category chart.png)
+![Category Breakdown](images/category_chart.png)
 
 ---
 
